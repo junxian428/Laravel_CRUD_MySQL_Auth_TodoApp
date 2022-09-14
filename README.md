@@ -1,0 +1,1 @@
+https://codeandtuts.com/laravel-6-crud-tutorial/
